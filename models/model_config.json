@@ -1,0 +1,7 @@
+{
+"model_type": "ARIMA",
+"order": [1, 1, 1],
+"seasonality": "monthly",
+"trends": "rolling_window",
+"window_size": 12
+}
