@@ -1,0 +1,3 @@
+pandas==1.3.5
+statsmodels==0.13.2
+tableau-api-lib==0.12.0
